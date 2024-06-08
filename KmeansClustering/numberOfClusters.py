@@ -1,3 +1,5 @@
+# Inertia is the sum of squared distances between each data point and its assigned cluster centroid.
+
 # elbow point" where the inertia starts to decrease more slowly. This point typically represents the optimal number of clusters
 
 import codecademylib3_seaborn
