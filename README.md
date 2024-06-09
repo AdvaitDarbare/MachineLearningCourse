@@ -80,7 +80,7 @@ Naive Bayes classifiers are simple probabilistic classifiers based on Bayes' the
 
 Support Vector Machines are supervised learning models used for classification and regression by finding the hyperplane that best divides a dataset into classes.
 
-- **Code**: See the `SVM` directory for implementation details.
+- **Code**: See the `SupportVectorMachine` directory for implementation details.
 
 ### Regularization and Hyperparameter Tuning
 
