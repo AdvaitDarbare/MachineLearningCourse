@@ -1,5 +1,3 @@
-# ML_Course
-
 # Machine Learning Course Repository
 
 Welcome to the Machine Learning Course Repository! This repository contains code and resources related to various topics in machine learning covered in the course. Below you will find a description of each topic, along with the relevant code and examples.
