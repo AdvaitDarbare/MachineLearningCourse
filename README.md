@@ -28,7 +28,7 @@ Welcome to the Machine Learning Course Repository! This repository contains code
 
 ## Introduction
 
-This repository contains a collection of machine learning algorithms, techniques, and examples. It is intended to serve as a reference for students and practitioners who are learning about machine learning or looking for implementations of specific algorithms.
+This repository contains a collection of machine learning algorithms, techniques, and examples. 
 
 ## Supervised Learning
 
