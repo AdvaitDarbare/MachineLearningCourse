@@ -20,9 +20,7 @@ Welcome to the Machine Learning Course Repository! This repository contains code
 - [Unsupervised Learning](#unsupervised-learning)
   - [K-Means Clustering](#k-means-clustering)
   - [Principal Component Analysis (PCA)](#principal-component-analysis-pca)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Introduction
 
