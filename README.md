@@ -12,6 +12,7 @@ Welcome to the Machine Learning Course Repository! This repository contains code
   - [K-Nearest Neighbors (KNN)](#k-nearest-neighbors-knn)
   - [Linear Regression](#linear-regression)
   - [Logistic Regression](#logistic-regression)
+  - [Evaluation Metrics for Classification](#Evaluation-Metrics-for-Classification)
   - [Naive Bayes](#naive-bayes)
   - [Support Vector Machines (SVM)](#support-vector-machines-svm)
   - [Regularization and Hyperparameter Tuning](#regularization-and-hyperparameter-tuning)
