@@ -66,6 +66,12 @@ Logistic Regression is used for binary classification problems and models the pr
 
 - **Code**: See the `LogisticRegression` directory for implementation details.
 
+### Evaluation Metrics for Classification
+
+Evaluation metrics for classification are quantitative measures used to assess the performance of a classification model. They provide insights into the accuracy, precision, recall, F1 score, and overall effectiveness of the model in correctly predicting class labels.
+
+- **Code**: See the `EvaluationMetricsClassification` directory for implementation details.
+
 ### Naive Bayes
 
 Naive Bayes classifiers are simple probabilistic classifiers based on Bayes' theorem with strong independence assumptions between the features.
