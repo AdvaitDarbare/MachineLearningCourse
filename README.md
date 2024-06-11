@@ -118,3 +118,7 @@ K-Means Clustering is an unsupervised learning algorithm used to partition a dat
 Principal Component Analysis is a technique used to emphasize variation and bring out strong patterns in a dataset, reducing its dimensionality.
 
 - **Code**: See the `Principal_component_analysis` directory for implementation details.
+
+## References
+- Many explanations and concepts in this project are sourced from Codecademy's materials. Specific quotes and detailed explanations are inspired by their courses.
+- For more details, visit [Codecademy](https://www.codecademy.com/).
