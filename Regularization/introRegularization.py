@@ -154,5 +154,18 @@ plt.figure(figsize = (12,8))
 plt.ylim(-1.0,1.0)
 coef.plot(kind='bar', title='Regression Coefficients with Lasso (L1) Regularization')
 
+'''
+7. Hyperparameter Tuning
+- contorl learning process
+- alpha is Hyperparameter
+- Larger Alpha: Stronger regularization. This means the coefficients of the model will be smaller, leading to a simpler model that might underfit.
+- Smaller Alpha: Weaker regularization. This means the model will allow larger coefficients, which can fit the training data better but might overfit.
 
+8. The Bias-Variance Tradeoff
+- Bias is the error introduced by approximating a real-world problem, which may be complex, by a simplified model.
+- High bias means the model makes assumptions that simplify the problem too much, leading to errors in training and test data (underfitting).
+- Variance is the error introduced by the model’s sensitivity to small fluctuations in the training set.
+- High variance means the model captures noise in the training data, leading to errors when making predictions on new data (overfitting).
+- When we add regularization, we are increasing bias to decrease variance.
+'''
 
