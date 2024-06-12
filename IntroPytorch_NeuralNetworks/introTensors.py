@@ -1,6 +1,49 @@
 <html><head></head><body>#!/usr/bin/env python
 # coding: utf-8
 
+'''
+Intro to Tensors
+
+	⁃	Tensors act as storage containers for numerical data
+	⁃	Most of the time, data is in NumPy or pandas df, we then need to convert to tensors using PyTorch’s torch.tensors()
+	⁃	torch.tensors() has two args: numerical data like array, list, or var; desired data type (dtype) such as torch.int or torch.float
+
+Example 1
+# define the apartment's rent
+rent = 2550
+# convert to an integer tensor
+rent_tensor = torch.tensor(
+    rent, 
+    dtype=torch.int)
+
+Example 2
+# create a numpy array with the rent in US dollars, size in square feet, and age in years
+apt_array = np.array([2550, 750, 3.5])
+# convert to a tensor of floats
+apt_tensor = torch.tensor(
+    apt_array, 
+    dtype=torch.float)
+
+Example 3
+# convert a DataFrame named df to a PyTorch tensor
+torch.tensor(
+    df.values, 
+    dtype=torch.float)
+
+Working with individual columns in DF
+torch.tensor(
+    df[['column']].values,
+    dtype=torch.float)
+
+OR
+
+torch.tensor(
+    df['column'].values,
+    dtype=torch.float).view(-1,1)
+
+'''
+
+
 # <details><summary style="display:list-item; font-size:16px; color:blue;">Jupyter Help</summary>
 #     
 # Having trouble testing your work? Double-check that you have followed the steps below to write, run, save, and test your code!
