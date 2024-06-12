@@ -120,5 +120,5 @@ Principal Component Analysis is a technique used to emphasize variation and brin
 - **Code**: See the `Principal_component_analysis` directory for implementation details.
 
 ## References
-- Many explanations and concepts in this project are sourced from Codecademy's materials. Specific quotes and detailed explanations are inspired by their courses.
+- Many explanations and concepts in this project are sourced from Codecademy's materials. Specific quotes and detailed explanations are by their courses.
 - For more details, visit [Codecademy](https://www.codecademy.com/).
