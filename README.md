@@ -12,7 +12,7 @@ Welcome to the Machine Learning Course Repository! This repository contains code
   - [K-Nearest Neighbors (KNN)](#k-nearest-neighbors-knn)
   - [Linear Regression](#linear-regression)
   - [Logistic Regression](#logistic-regression)
-  - [Evaluation Metrics for Classification](#Evaluation-Metrics-for-Classification)
+  - [Evaluation Metrics for Classification](#evaluation-metrics-for-classification)
   - [Naive Bayes](#naive-bayes)
   - [Support Vector Machines (SVM)](#support-vector-machines-svm)
   - [Regularization and Hyperparameter Tuning](#regularization-and-hyperparameter-tuning)
@@ -21,7 +21,9 @@ Welcome to the Machine Learning Course Repository! This repository contains code
 - [Unsupervised Learning](#unsupervised-learning)
   - [K-Means Clustering](#k-means-clustering)
   - [Principal Component Analysis (PCA)](#principal-component-analysis-pca)
-
+- [Extra](#extra)
+  - [PandasPractice](#pandaspractice)
+  - [mlModelsScikitLearn](#mlmodelsscikitlearn)
 
 ## Introduction
 
@@ -118,6 +120,16 @@ K-Means Clustering is an unsupervised learning algorithm used to partition a dat
 Principal Component Analysis is a technique used to emphasize variation and bring out strong patterns in a dataset, reducing its dimensionality.
 
 - **Code**: See the `Principal_component_analysis` directory for implementation details.
+
+## Extra
+
+### PandasPractice
+
+- **Code**: See the `PandasPractice` directory for examples and exercises on using pandas for data manipulation and analysis.
+
+### mlModelsScikitLearn
+
+- **Code**: See the `mlModelsScikitLearn` directory for various machine learning models implemented using scikit-learn.
 
 ## References
 - Many explanations and concepts in this project are sourced from Codecademy's materials. Specific quotes and detailed explanations are by their courses.
