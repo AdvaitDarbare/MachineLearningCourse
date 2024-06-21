@@ -24,6 +24,7 @@ Welcome to the Machine Learning Course Repository! This repository contains code
 - [Extra](#extra)
   - [PandasPractice](#pandaspractice)
   - [mlModelsScikitLearn](#mlmodelsscikitlearn)
+  - [Classification Milestone Project 1 - End-to-End Heart Disease Classification](#classification-milestone-project-1---end-to-end-heart-disease-classification)
 
 ## Introduction
 
@@ -130,6 +131,12 @@ Principal Component Analysis is a technique used to emphasize variation and brin
 ### mlModelsScikitLearn
 
 - **Code**: See the `mlModelsScikitLearn` directory for various machine learning models implemented using scikit-learn.
+
+### Classification Milestone Project 1 - End-to-End Heart Disease Classification
+
+- **Code**: See the `ClassificationMilestoneProject1`
+-  This project aims to build an end-to-end machine learning pipeline for heart disease classification. The goal is to predict the presence of heart disease in patients based on various medical attributes. The project covers all the essential steps from data preprocessing to model evaluation and deployment.
+-  Uses Logistic Regression, KNN, Random Forest Classifier
 
 ## References
 - Many explanations and concepts in this project are sourced from Codecademy's materials. Specific quotes and detailed explanations are by their courses.
