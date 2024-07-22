@@ -21,7 +21,7 @@ Welcome to the Machine Learning Course Repository! This repository contains code
 - [Unsupervised Learning](#unsupervised-learning)
   - [K-Means Clustering](#k-means-clustering)
   - [Principal Component Analysis (PCA)](#principal-component-analysis-pca)
-- [Deep Learning](#deep-learning)
+- [Deep Learning](#Deep-Learning-TensorFlow)
 - [Extra](#extra)
   - [PandasPractice](#pandaspractice)
   - [mlModelsScikitLearn](#mlmodelsscikitlearn)
