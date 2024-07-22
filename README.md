@@ -126,6 +126,8 @@ Principal Component Analysis is a technique used to emphasize variation and brin
 
 ## Deep Learning
 
+- **Code**: See the `Deep_Learning_TensorFlow` directory for implementation details.
+
 ## Extra
 
 ### PandasPractice
