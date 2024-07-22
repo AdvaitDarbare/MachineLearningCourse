@@ -21,7 +21,7 @@ Welcome to the Machine Learning Course Repository! This repository contains code
 - [Unsupervised Learning](#unsupervised-learning)
   - [K-Means Clustering](#k-means-clustering)
   - [Principal Component Analysis (PCA)](#principal-component-analysis-pca)
-- [Deep Learning](#Deep-Learning-TensorFlow)
+- [Deep Learning TensorFlow](#Deep-Learning-TensorFlow)
 - [Extra](#extra)
   - [PandasPractice](#pandaspractice)
   - [mlModelsScikitLearn](#mlmodelsscikitlearn)
@@ -124,7 +124,7 @@ Principal Component Analysis is a technique used to emphasize variation and brin
 
 - **Code**: See the `Principal_component_analysis` directory for implementation details.
 
-## Deep Learning
+## Deep Learning TensorFlow
 
 - **Code**: See the `Deep_Learning_TensorFlow` directory for implementation details.
 
