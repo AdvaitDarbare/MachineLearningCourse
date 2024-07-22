@@ -146,6 +146,7 @@ Principal Component Analysis is a technique used to emphasize variation and brin
 
 
 ## References
-- Many explanations and concepts in this project are sourced from Codecademy's materials. Specific quotes and detailed explanations are by their courses.
-- For more details, visit [Codecademy](https://www.codecademy.com/).
-- Additional explanations are inspired by the [Complete Machine Learning and Data Science Zero to Mastery](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/?couponCode=ST19MT61724) course on Udemy.
+- Explanations are inspired by the [Complete Machine Learning and Data Science Zero to Mastery](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/?couponCode=ST19MT61724) course on Udemy.
+- Explanations are inspired by the [Tensorflow 2.0: Deep Learning and Artificial Intelligence](https://www.udemy.com/share/101qGA3@P4fpRsS52u4YZopON6YPFRzjOEP1nVv_w0j3GRfaeI-ERLdmvHG4Jow0bdLANo4NdQ==/) course on Udemy.
+- Explanations are inspired by the [Codecademy](https://www.codecademy.com/).
+
